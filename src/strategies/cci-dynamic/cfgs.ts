@@ -48,6 +48,8 @@ export const SBER: CCIDynamicBotOptions = {
     amount: 500,
     maxRetryOrders: 0,
     orderCandlesLimit: 100,
+    stopLoss: 5,
+    takeProfit: 10,
     closeAtZero: false,
     stopTakeRatio: 2,
     atrPeriod: 21,

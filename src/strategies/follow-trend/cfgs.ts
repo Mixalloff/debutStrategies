@@ -2,16 +2,16 @@ import { FTOptions } from './bot';
 
 export const TSLA: FTOptions = {
     broker: 'tinkoff',
-    ticker: 'TSLA',
+    ticker: 'AAPL',
     currency: 'USD',
-    interval: '1min',
-    stopLoss: 3.75,
-    takeProfit: 4.63,
-    amount: 500,
+    interval: 'day',
+    stopLoss: 100,
+    takeProfit: 100,
+    amount: 1000,
     fastPeriod: 10,
     slowPeriod: 18,
-    openPercent: 1.62,
-    fee: 0.1,
+    openPercent: 10,
+    fee: 0.01,
     id: 25,
 };
 

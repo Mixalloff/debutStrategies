@@ -1,22 +1,42 @@
 [
-    {
-        "name": "FTBot",
-        "path": "./out/strategies/follow-trend/",
-        "src": "./src/strategies/follow-trend/"
-    },
-    {
-        "name": "SpikesG",
-        "path": "./out/strategies/spikes-grid/",
-        "src": "./src/strategies/spikes-grid/"
-    },
-    {
-        "name": "StochMacd",
-        "path": "./out/strategies/stoch-macd/",
-        "src": "./src/strategies/stoch-macd/"
-    },
-    {
-        "name": "CCIDynamic",
-        "path": "./out/strategies/cci-dynamic/",
-        "src": "./src/strategies/cci-dynamic/"
-    }
+  {
+    "name": "FTBot",
+    "path": "./out/strategies/follow-trend/",
+    "src": "./src/strategies/follow-trend/"
+  },
+  {
+    "name": "SpikesG",
+    "path": "./out/strategies/spikes-grid/",
+    "src": "./src/strategies/spikes-grid/"
+  },
+  {
+    "name": "StochMacd",
+    "path": "./out/strategies/stoch-macd/",
+    "src": "./src/strategies/stoch-macd/"
+  },
+  {
+    "name": "CCIDynamic",
+    "path": "./out/strategies/cci-dynamic/",
+    "src": "./src/strategies/cci-dynamic/"
+  },
+  {
+    "name": "CrossEMABot",
+    "path": "./out/strategies/cross-ema/",
+    "src": "./src/strategies/cross-ema/"
+  },
+  {
+    "name": "FollowEMABot",
+    "path": "./out/strategies/follow-ema/",
+    "src": "./src/strategies/follow-ema/"
+  },
+  {
+    "name": "Kate1Bot",
+    "path": "./out/strategies/kate1/",
+    "src": "./src/strategies/kate1/"
+  },
+  {
+    "name": "Kate2Bot",
+    "path": "./out/strategies/kate2/",
+    "src": "./src/strategies/kate2/"
+  }
 ]

@@ -47,12 +47,7 @@
         "pm2": "^5.2.0",
         "prettier": "^2.7.1",
         "tail-file": "^1.4.15",
-        "typescript": "^4.7.4",
-        "ts-node": "^10.9.1"
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "git-format-staged -f 'prettier --stdin --stdin-filepath \"{}\"' '*.ts' '*.json'"
-        }
+        "ts-node": "^10.9.1",
+        "typescript": "^4.7.4"
     }
 }
